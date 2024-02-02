@@ -24,8 +24,9 @@
 ```
 
 Soda Tier List:
-S - São Geraldo
-A - Coca cola, Pepsi 
-B - Guaraná (Antartica)
-C - Guaraná Jesus
-F - Fanta Laranja, Fanta Uva
+
+**S** - São Geraldo  
+A - Coca cola, Pepsi  
+B - Guaraná (Antartica)  
+C - Guaraná Jesus  
+*F* - Fanta Laranja, Fanta Uva  
