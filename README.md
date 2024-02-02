@@ -1,16 +1,24 @@
-### Hi there 👋
+```
+              ...                           
+             ;::::;                          
+           ;::::; :;           hello
+         ;:::::'   :;             i'm the grim reaper         
+        ;:::::;     ;.                  and i'm here to talk to you about code nesting   
+       ,:::::'       ;           OOO\        it's bad kids, don't do it, or else
+       ::::::;       ;          OOOOO\            that's it from me
+       ;:::::;  ...  ;         OOOOOOOO              smell ya later
+      ,;::::::;     ;'         / OOOOOOO     
+    ;:::::::::`. ,,,;.        /  / DOOOOOO   
+  .';:::::::::::::::::;,     /  /     DOOOO  
+ ,::::::;::::::;;;;::::;,   /  /        DOOO 
+;`::::::`'::::::;;;::::: ,#/  /          DOOO
+:`:::::::`;::::::;;::: ;::#  /            DOOO
+::`:::::::`;:::::::: ;::::# /              DOO
+`:`:::::::`;:::::: ;::::::#/               DOO
+ :::`:::::::`;; ;:::::::::##                OO
+ ::::`:::::::`;::::::::;:::#                OO
+ `:::::`::::::::::::;'`:;::#                O 
+  `:::::`::::::::;' /  / `:#                 
+   ::::::`:::::;'  /  /   `# 
 
-<!--
-**rafero1/rafero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
